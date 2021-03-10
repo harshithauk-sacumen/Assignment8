@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:India Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN=conqueror@sacumen.com;RSVP=TRUE:mailto:conqueror@sacumen.com
+CLASS:PUBLIC
+CREATED:20210217T041738Z
+DESCRIPTION:Praneeth Kudithipudi is inviting you to a scheduled Zoom meetin
+	g. \n\nJoin Zoom Meeting \nhttps://us02web.zoom.us/j/9080046202 \n\nMeetin
+	g ID: 908 004 6202 \nOne tap mobile \n+13126266799\,\,9080046202# US (Chic
+	ago) \n+13462487799\,\,9080046202# US (Houston) \n\nDial by your location 
+	\n        +1 312 626 6799 US (Chicago) \n        +1 346 248 7799 US (Houst
+	on) \n        +1 646 558 8656 US (New York) \n        +1 669 900 9128 US (
+	San Jose) \n        +1 253 215 8782 US (Tacoma) \n        +1 301 715 8592 
+	US (Washington DC) \nMeeting ID: 908 004 6202 \nFind your local number: ht
+	tps://us02web.zoom.us/u/kcjTwoV5Sd \n\n \n\n
+DTEND;TZID="India Standard Time":20210218T170000
+DTSTAMP:20210217T041738Z
+DTSTART;TZID="India Standard Time":20210218T160000
+LAST-MODIFIED:20210217T041738Z
+LOCATION:https://us02web.zoom.us/j/9080046202
+ORGANIZER;CN="Praneeth Kudithipudi":mailto:praneeth@sacumen.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-in:Knowledge Session 1 - Cybersecurity Basics
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000D047BB511105D701000000000000000
+	010000000F93F1C07E15A7241A7E4FD1D4EF2A587
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Co
+	ntent-Type content="text/html\; charset=us-ascii"><meta name=Generator con
+	tent="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definition
+	s */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 
+	3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 
+	2 4\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNorma
+	l\n	{margin:0cm\;\n	font-size:11.0pt\;\n	font-family:"Calibri"\,sans-serif
+	\;}\na:link\, span.MsoHyperlink\n	{mso-style-priority:99\;\n	color:blue\;\
+	n	text-decoration:underline\;}\nspan.EmailStyle18\n	{mso-style-type:person
+	al-compose\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	font-size:
+	10.0pt\;}\n@page WordSection1\n	{size:612.0pt 792.0pt\;\n	margin:72.0pt 72
+	.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></styl
+	e><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" /
+	>\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit"
+	>\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></
+	head><body lang=EN-IN link=blue vlink=purple style='word-wrap:break-word'>
+	<div class=WordSection1><p>Praneeth Kudithipudi is inviting you to a sched
+	uled Zoom meeting. <o:p></o:p></p><p>Join Zoom Meeting <br><a href="https:
+	//us02web.zoom.us/j/9080046202">https://us02web.zoom.us/j/9080046202</a> <
+	o:p></o:p></p><p>Meeting ID: 908 004 6202 <br>One tap mobile <br>+13126266
+	799\,\,9080046202# US (Chicago) <br>+13462487799\,\,9080046202# US (Housto
+	n) <o:p></o:p></p><p>Dial by your location <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\
+	;&nbsp\;&nbsp\;&nbsp\; +1 312 626 6799 US (Chicago) <br>&nbsp\;&nbsp\;&nbs
+	p\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +1 346 248 7799 US (Houston) <br>&nbsp\;&n
+	bsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +1 646 558 8656 US (New York) <br
+	>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +1 669 900 9128 US (San
+	 Jose) <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +1 253 215 87
+	82 US (Tacoma) <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\; +1 30
+	1 715 8592 US (Washington DC) <br>Meeting ID: 908 004 6202 <br>Find your l
+	ocal number: <a href="https://us02web.zoom.us/u/kcjTwoV5Sd">https://us02we
+	b.zoom.us/u/kcjTwoV5Sd</a> <o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;<
+	/o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+

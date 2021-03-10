@@ -1,0 +1,43 @@
+NOTE: Picked up JDK_JAVA_OPTIONS:  --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Mar-2021 18:29:59.543 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.43
+04-Mar-2021 18:29:59.545 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 28 2021 20:25:45 UTC
+04-Mar-2021 18:29:59.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.43.0
+04-Mar-2021 18:29:59.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+04-Mar-2021 18:29:59.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.4.0-65-generic
+04-Mar-2021 18:29:59.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Mar-2021 18:29:59.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-11-openjdk-amd64
+04-Mar-2021 18:29:59.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.10+9-Ubuntu-0ubuntu1.18.04
+04-Mar-2021 18:29:59.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Ubuntu
+04-Mar-2021 18:29:59.546 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/sacumen/Downloads/apache-tomcat-9.0.43
+04-Mar-2021 18:29:59.547 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/sacumen/Downloads/apache-tomcat-9.0.43
+04-Mar-2021 18:29:59.559 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Mar-2021 18:29:59.559 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Mar-2021 18:29:59.559 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Mar-2021 18:29:59.559 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Mar-2021 18:29:59.559 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Mar-2021 18:29:59.560 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/sacumen/Downloads/apache-tomcat-9.0.43/conf/logging.properties
+04-Mar-2021 18:29:59.560 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Mar-2021 18:29:59.560 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Mar-2021 18:29:59.560 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Mar-2021 18:29:59.560 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+04-Mar-2021 18:29:59.560 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Mar-2021 18:29:59.560 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/sacumen/Downloads/apache-tomcat-9.0.43
+04-Mar-2021 18:29:59.560 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/sacumen/Downloads/apache-tomcat-9.0.43
+04-Mar-2021 18:29:59.560 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/sacumen/Downloads/apache-tomcat-9.0.43/temp
+04-Mar-2021 18:29:59.562 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+04-Mar-2021 18:29:59.875 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Mar-2021 18:29:59.898 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [543] milliseconds
+04-Mar-2021 18:29:59.944 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Mar-2021 18:29:59.944 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.43]
+04-Mar-2021 18:29:59.950 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/sacumen/Downloads/apache-tomcat-9.0.43/webapps/host-manager]
+04-Mar-2021 18:30:00.151 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/sacumen/Downloads/apache-tomcat-9.0.43/webapps/host-manager] has finished in [200] ms
+04-Mar-2021 18:30:00.151 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/sacumen/Downloads/apache-tomcat-9.0.43/webapps/docs]
+04-Mar-2021 18:30:00.170 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/sacumen/Downloads/apache-tomcat-9.0.43/webapps/docs] has finished in [19] ms
+04-Mar-2021 18:30:00.170 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/sacumen/Downloads/apache-tomcat-9.0.43/webapps/manager]
+04-Mar-2021 18:30:00.195 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/sacumen/Downloads/apache-tomcat-9.0.43/webapps/manager] has finished in [24] ms
+04-Mar-2021 18:30:00.195 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/sacumen/Downloads/apache-tomcat-9.0.43/webapps/ROOT]
+04-Mar-2021 18:30:00.215 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/sacumen/Downloads/apache-tomcat-9.0.43/webapps/ROOT] has finished in [20] ms
+04-Mar-2021 18:30:00.215 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/sacumen/Downloads/apache-tomcat-9.0.43/webapps/examples]
+04-Mar-2021 18:30:00.397 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/sacumen/Downloads/apache-tomcat-9.0.43/webapps/examples] has finished in [182] ms
+04-Mar-2021 18:30:00.402 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Mar-2021 18:30:00.412 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [514] milliseconds
